@@ -1,0 +1,55 @@
+table,th,tr{
+	border-collapse:collapse;
+	border: 1px solid red;
+	text-align:center;
+	margin:auto;
+
+	
+}
+
+.a{
+	background-color:rgb(255,0,0);
+	color:rgb(255,255,51);
+}
+
+.b{
+	background-color:rgb(0,0,0);
+	color:rgb(255,0,0);
+
+}
+.c{
+	background-color:rgb(255,255,255);
+	color:rgb(255, 165, 0);
+}
+.d{
+	background-color:rgb(0, 0, 102,0.5);
+	color:rgb(255, 255, 0,0.4);
+}
+.e{
+	background-color:rgb(0, 0, 102,0.5);
+	color:rgb(255, 255, 0,1);
+}
+
+.f{
+	background-color:#000066;
+	color:#99ff99;
+}
+.g{
+	background-color:FF;
+	color:#99ff99;
+}
+.h{
+	background-color:hsl(300, 76%, 72%);
+}
+.i{
+	background-color:hsl(0, 100%, 25%);
+	color:white;
+}
+
+.j{
+	background-color:hsl(0, 100%, 50%);
+}
+
+.k{
+	background-color:hsla(9, 100%, 64%, 0.2);
+}
